@@ -9,3 +9,5 @@
 - 셋째주
   - [7월 15일(1)](https://github.com/hjuohj1022/TIL/blob/master/01-fundamentals-of-python.ipynb)
   - [7월 15일(2)](https://github.com/hjuohj1022/TIL/blob/master/02-data-types.ipynb)
+  - [7월 16일(1)](https://github.com/hjuohj1022/TIL/blob/master/03-type-conversion.ipynb)
+  - 
