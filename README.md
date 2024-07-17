@@ -11,5 +11,5 @@
   - [7월 15일(2)](https://github.com/hjuohj1022/TIL/blob/master/02-data-types.ipynb)
   - [7월 16일(1)](https://github.com/hjuohj1022/TIL/blob/master/03-type-conversion.ipynb)
   - [7월 16일(2)](https://github.com/hjuohj1022/TIL/blob/master/04-operator.ipynb)
-  - [7월 16일(2)](https://github.com/hjuohj1022/TIL/blob/master/05-functions.ipynb)
-  - [7월 16일(2)](https://github.com/hjuohj1022/TIL/blob/master/06-06-packing-unpacking.ipynb)
+  - [7월 17일(1)](https://github.com/hjuohj1022/TIL/blob/master/05-functions.ipynb)
+  - [7월 17일(2)](https://github.com/hjuohj1022/TIL/blob/master/06-06-packing-unpacking.ipynb)
