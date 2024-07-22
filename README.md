@@ -15,3 +15,5 @@
   - [7월 17일(2)](https://github.com/hjuohj1022/TIL/blob/master/06-06-packing-unpacking.ipynb)
   - [7월 18일(1)](https://github.com/hjuohj1022/TIL/blob/master/07-modules.ipynb)
   - [7월 18일(2)](https://github.com/hjuohj1022/TIL/blob/master/08-control-of-flow.ipynb)
+- 넷째주
+  - [7월 22일](https://github.com/hjuohj1022/TIL/blob/master/09-data-structure.ipynb)
