@@ -18,3 +18,5 @@
 - 넷째주
   - [7월 22일](https://github.com/hjuohj1022/TIL/blob/master/09-data-structure.ipynb)
   - [7월 24일](https://github.com/hjuohj1022/TIL/blob/master/10-classes.ipynb)
+- 다섯째주
+  - [7월 29일](https://github.com/hjuohj1022/TIL/blob/master/7.29.md)
