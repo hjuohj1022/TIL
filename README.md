@@ -20,3 +20,4 @@
   - [7월 24일](https://github.com/hjuohj1022/TIL/blob/master/10-classes.ipynb)
 - 다섯째주
   - [7월 29일](https://github.com/hjuohj1022/TIL/blob/master/7.29.md)
+  - [7월 30일](https://github.com/hjuohj1022/TIL/blob/master/7.30.md)
